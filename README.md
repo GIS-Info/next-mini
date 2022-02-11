@@ -1,2 +1,19 @@
-# next-mini
-“GIS海外院校和项目信息”下一代网站的小程序端部分
+# uniapp-demo
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
